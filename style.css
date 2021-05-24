@@ -1,0 +1,5 @@
+.container {
+    color: #fff;
+    background-color: blue;
+    display: flex;
+}
